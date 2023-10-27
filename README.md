@@ -1,14 +1,4 @@
-      
-  _    ___     _______  _____              _   _ _    _  _____ _      ______ _____  
- | |  | \ \   / /  __ \|  __ \     /\     | \ | | |  | |/ ____| |    |  ____|  __ \ 
- | |__| |\ \_/ /| |  | | |__) |   /  \    |  \| | |  | | |    | |    | |__  | |__) |
- |  __  | \   / | |  | |  _  /   / /\ \   | . ` | |  | | |    | |    |  __| |  _  / 
- | |  | |  | |  | |__| | | \ \  / ____ \  | |\  | |__| | |____| |____| |____| | \ \ 
- |_|  |_|  |_|  |_____/|_|  \_\/_/    \_\ |_| \_|\____/ \_____|______|______|_|  \_\
-                                                                                    
-                                                                                    
-
-
+                                                                                   
 # Hydra-attack ![](https://img.shields.io/badge/Version-preview-brightgreen.svg) ![](https://img.shields.io/badge/license-GPLv2-blue.svg)
  A script for using socks4/5 or http proxies to attack http(s) server.
 # TODO
